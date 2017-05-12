@@ -1,0 +1,6 @@
+clock.o
+encoder.o
+serial.o
+lcd.o
+main.elf
+main.hex
